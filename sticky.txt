@@ -1,0 +1,14 @@
+Number of Test Cases:
+____________________________
+Requirements Phase:
+___________________________
+Exploratory Testing(First exploring then start testing)
+Security testing (ethical Hacking) :::Hacking (without permission is illegal)
+Exhaustive Testing (combinaton of all test cases)
+
+Design Phase:
+___________________________
+
+Construction Phase:
+___________________________
+
